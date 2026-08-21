@@ -15,7 +15,7 @@ function Gallery() {
             <div className="gallery-heading">
                 <p className="section-label">OUR SPACE</p>
 
-                <h2>Inside My Coffee</h2>
+                <h2>Inside AMAYU CAFE</h2>
 
                 <p>
                     A warm place to relax and enjoy your favorite coffee.
