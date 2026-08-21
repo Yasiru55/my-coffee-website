@@ -2,13 +2,13 @@ function Hero() {
     return (
         <section className="hero" id="home">
             <div className="hero-content">
-                <p>Welcome to My Coffee</p>
+                <p>WELCOME TO AMAYU CAFE</p>
 
                 <h1>Fresh Coffee,<br />Made With Love</h1>
 
                 <p>
-                    Enjoy freshly brewed coffee and delicious treats
-                    in a warm and relaxing place.
+                    Enjoy freshly brewed coffee, delicious treats,
+                    and unforgettable moments in a warm and relaxing atmosphere.
                 </p>
 
                 <button onClick={() => {

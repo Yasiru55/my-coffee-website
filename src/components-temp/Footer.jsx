@@ -2,7 +2,7 @@ function Footer() {
     return (
         <footer className="footer">
             <div className="footer-content">
-                <h2>☕ My Coffee</h2>
+                <h2>☕ AMAYU CAFE</h2>
 
                 <p>
                     Fresh coffee, good food, and great moments.
