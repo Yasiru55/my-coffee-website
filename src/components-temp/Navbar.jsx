@@ -1,7 +1,7 @@
 function Navbar() {
     return (
         <nav>
-            <h2>☕ My Coffee</h2>
+            <h2>☕ AMAYU CAFE</h2>
 
             <div>
                 <a href="#home">Home</a>
